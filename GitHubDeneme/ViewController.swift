@@ -24,6 +24,8 @@ class ViewController: UIViewController {
         
     }
 
+    @IBAction func MyButton(_ sender: Any) {
+    }
 
 }
 
